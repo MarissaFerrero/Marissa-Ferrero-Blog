@@ -1,2 +1,2 @@
-# Marissa-Ferrero-Blog
-My blog for IXXN211
+# Marissa's Blog
+ My blog for IXXN211
